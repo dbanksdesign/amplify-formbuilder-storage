@@ -6,4 +6,5 @@
 
 export { default as studioTheme } from "./studioTheme";
 export { default as PostCreateForm } from "./PostCreateForm";
+export { default as NewForm1 } from "./NewForm1";
 export { default as PostUpdateForm } from "./PostUpdateForm";
