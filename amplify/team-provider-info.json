@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-catlify-staging-210811-authRole",
+      "UnauthRoleArn": "arn:aws:iam::553879240338:role/amplify-catlify-staging-210811-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::553879240338:role/amplify-catlify-staging-210811-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-catlify-staging-210811-deployment",
+      "UnauthRoleName": "amplify-catlify-staging-210811-unauthRole",
+      "StackName": "amplify-catlify-staging-210811",
+      "StackId": "arn:aws:cloudformation:us-east-2:553879240338:stack/amplify-catlify-staging-210811/326a6b90-2a66-11ee-9cf1-0a7ce734b7fd",
+      "AmplifyAppId": "d272pwimbfph15"
+    },
+    "categories": {
+      "auth": {
+        "catlify": {}
+      },
+      "storage": {
+        "s3catlifystoragef51c3019": {}
+      }
+    }
+  }
+}
